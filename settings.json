@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "Moose99BB.aternos.me:40080",
+    "port": 40080,
     "version": "",
     "try-creative": false
   },
